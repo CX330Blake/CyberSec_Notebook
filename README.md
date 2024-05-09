@@ -6,6 +6,6 @@ It's created by [<NAME>](https://github.com/CX330Blake) and ChatGPT.
 ## Usage
 Just open the Crypto_Notebook.md and enjoy cryptography!
 
-## Build With
+## Built With
 - Python
 - Markdown
