@@ -7,4 +7,5 @@ It's created by [<NAME>](https://github.com/CX330Blake) and ChatGPT.
 Just open the Crypto_Notebook.md and enjoy cryptography!
 
 ## Build With
-- python
+- Python
+- Markdown
